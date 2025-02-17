@@ -56,3 +56,4 @@ Integrate email notifications - 2025-02-17T10:51:21
 Add logging for vote casting - 2025-02-20T10:51:21
 Integrate email notifications - 2025-02-26T10:51:21
 Fix date formatting issue in results page - 2025-03-01T10:51:21
+Fix email validation bug - 2025-02-17T10:51:21
