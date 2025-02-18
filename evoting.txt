@@ -42,3 +42,4 @@ Add logout functionality - 2025-04-02T10:51:20
 Set up PostgreSQL database - 2025-04-04T10:51:20
 Add confirmation modal before vote submission - 2025-03-07T10:51:20
 Add logout functionality - 2025-04-17T10:51:20
+Add confirmation modal before vote submission - 2025-02-18T10:51:20
