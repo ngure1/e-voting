@@ -96,3 +96,4 @@ Fix email validation bug - 2025-02-20T10:51:23
 Add confirmation modal before vote submission - 2025-04-10T10:51:23
 Add voter registration endpoint - 2025-03-31T10:51:23
 Update documentation for deployment - 2025-03-24T10:51:23
+Patch CSRF vulnerability - 2025-02-18T10:51:23
