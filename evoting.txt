@@ -92,3 +92,4 @@ Improve error messages - 2025-03-08T10:51:23
 Upgrade dependencies - 2025-04-02T10:51:23
 Encrypt votes before storing - 2025-02-28T10:51:23
 Design login UI - 2025-03-03T10:51:23
+Fix email validation bug - 2025-02-20T10:51:23
