@@ -53,3 +53,4 @@ Deploy backend to test server - 2025-03-29T10:51:21
 Optimize database queries - 2025-04-15T10:51:21
 Set up PostgreSQL database - 2025-04-06T10:51:21
 Integrate email notifications - 2025-02-17T10:51:21
+Add logging for vote casting - 2025-02-20T10:51:21
