@@ -48,3 +48,4 @@ Implement vote casting logic - 2025-02-25T10:51:20
 Improve error messages - 2025-04-09T10:51:20
 Upgrade dependencies - 2025-04-02T10:51:20
 Fix tallying bug in backend - 2025-02-21T10:51:20
+Track login attempts - 2025-02-20T10:51:21
