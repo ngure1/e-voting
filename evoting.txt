@@ -11,3 +11,4 @@ Implement vote casting logic - 2025-04-03T10:51:18
 Add logging for vote casting - 2025-04-10T10:51:18
 Initialize project structure - 2025-03-05T10:51:18
 Improve responsiveness of UI - 2025-03-24T10:51:18
+Deploy backend to test server - 2025-02-23T10:51:18
