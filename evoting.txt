@@ -44,3 +44,4 @@ Add confirmation modal before vote submission - 2025-03-07T10:51:20
 Add logout functionality - 2025-04-17T10:51:20
 Add confirmation modal before vote submission - 2025-02-18T10:51:20
 Initialize project structure - 2025-04-14T10:51:20
+Implement vote casting logic - 2025-02-25T10:51:20
