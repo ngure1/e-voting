@@ -36,3 +36,4 @@ Upgrade dependencies - 2025-04-06T10:51:20
 Implement token-based authentication - 2025-04-09T10:51:20
 Set up PostgreSQL database - 2025-03-26T10:51:20
 Integrate email notifications - 2025-03-25T10:51:20
+Prevent admin from voting - 2025-02-28T10:51:20
