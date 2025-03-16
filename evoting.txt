@@ -19,3 +19,4 @@ Add testing framework - 2025-03-27T10:51:19
 Create voter dashboard - 2025-04-06T10:51:19
 Initialize project structure - 2025-02-22T10:51:19
 Add voter registration endpoint - 2025-03-06T10:51:19
+Integrate email notifications - 2025-03-16T10:51:19
