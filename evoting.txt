@@ -59,3 +59,4 @@ Fix date formatting issue in results page - 2025-03-01T10:51:21
 Fix email validation bug - 2025-02-17T10:51:21
 Fix email validation bug - 2025-03-24T10:51:21
 Prevent admin from voting - 2025-02-24T10:51:21
+Add voter registration endpoint - 2025-03-16T10:51:21
