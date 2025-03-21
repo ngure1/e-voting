@@ -71,3 +71,4 @@ Add logout functionality - 2025-02-18T10:51:22
 Design login UI - 2025-03-29T10:51:22
 Encrypt votes before storing - 2025-03-02T10:51:22
 Improve responsiveness of UI - 2025-03-03T10:51:22
+Clean up unused CSS classes - 2025-03-21T10:51:22
