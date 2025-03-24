@@ -30,3 +30,4 @@ Fix date formatting issue in results page - 2025-03-30T10:51:19
 Fix email validation bug - 2025-04-09T10:51:19
 Add admin analytics page - 2025-02-24T10:51:19
 Upgrade dependencies - 2025-03-27T10:51:19
+Integrate email notifications - 2025-03-24T10:51:20
