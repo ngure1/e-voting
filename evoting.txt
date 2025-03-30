@@ -26,3 +26,4 @@ Fix date formatting issue in results page - 2025-02-28T10:51:19
 Add confirmation modal before vote submission - 2025-03-18T10:51:19
 Add voter registration endpoint - 2025-04-17T10:51:19
 Implement vote casting logic - 2025-02-26T10:51:19
+Fix date formatting issue in results page - 2025-03-30T10:51:19
