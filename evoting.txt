@@ -1,2 +1,3 @@
 Add logout functionality - 2025-03-29T10:51:18
 Add confirmation modal before vote submission - 2025-03-22T10:51:18
+Add logging for vote casting - 2025-03-30T10:51:18
