@@ -39,3 +39,4 @@ Integrate email notifications - 2025-03-25T10:51:20
 Prevent admin from voting - 2025-02-28T10:51:20
 Patch CSRF vulnerability - 2025-03-01T10:51:20
 Add logout functionality - 2025-04-02T10:51:20
+Set up PostgreSQL database - 2025-04-04T10:51:20
