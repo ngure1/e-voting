@@ -16,3 +16,4 @@ Add role-based access control - 2025-04-10T10:51:18
 Track login attempts - 2025-04-02T10:51:19
 Integrate email notifications - 2025-02-22T10:51:19
 Add testing framework - 2025-03-27T10:51:19
+Create voter dashboard - 2025-04-06T10:51:19
