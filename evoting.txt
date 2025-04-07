@@ -77,3 +77,4 @@ Encrypt votes before storing - 2025-04-16T10:51:22
 Create voter dashboard - 2025-02-18T10:51:22
 Improve responsiveness of UI - 2025-03-31T10:51:22
 Add logging for vote casting - 2025-03-13T10:51:22
+Implement vote casting logic - 2025-04-07T10:51:22
