@@ -64,3 +64,4 @@ Write unit tests for voting logic - 2025-03-13T10:51:21
 Implement vote casting logic - 2025-02-19T10:51:21
 Add voter registration endpoint - 2025-04-07T10:51:21
 Add admin analytics page - 2025-04-06T10:51:21
+Upgrade dependencies - 2025-04-09T10:51:21
