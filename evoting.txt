@@ -8,3 +8,4 @@ Deploy backend to test server - 2025-03-03T10:51:18
 Fix date formatting issue in results page - 2025-03-20T10:51:18
 Implement vote casting logic - 2025-04-01T10:51:18
 Implement vote casting logic - 2025-04-03T10:51:18
+Add logging for vote casting - 2025-04-10T10:51:18
