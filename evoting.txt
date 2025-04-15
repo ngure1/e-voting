@@ -50,3 +50,4 @@ Upgrade dependencies - 2025-04-02T10:51:20
 Fix tallying bug in backend - 2025-02-21T10:51:20
 Track login attempts - 2025-02-20T10:51:21
 Deploy backend to test server - 2025-03-29T10:51:21
+Optimize database queries - 2025-04-15T10:51:21
