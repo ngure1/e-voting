@@ -73,3 +73,4 @@ Encrypt votes before storing - 2025-03-02T10:51:22
 Improve responsiveness of UI - 2025-03-03T10:51:22
 Clean up unused CSS classes - 2025-03-21T10:51:22
 Optimize database queries - 2025-03-03T10:51:22
+Encrypt votes before storing - 2025-04-16T10:51:22
